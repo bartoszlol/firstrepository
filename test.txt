@@ -4,3 +4,6 @@ Bug
 Bug
 Bug
 Bug
+Промяна с Bash… 
+"Промяна с Tortoise…"
+
